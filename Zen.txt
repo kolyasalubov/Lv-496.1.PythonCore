@@ -1,11 +1,11 @@
 Zen of Python!!!
 
 1.Beautiful is better than ugly.
-2.Explicit is better than implicit.
+2.
 3.Simple is better than complex.
 4.
 5.Hello world
-6.
+6.Sparse is better than dense.
 7.
 8.
 9.Although practicality beats purity.
