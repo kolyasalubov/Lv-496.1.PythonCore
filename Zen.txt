@@ -4,8 +4,15 @@ Zen of Python!!!
 2.
 3.Simple is better than complex.
 4.
+<<<<<<< HEAD
 5.Hello world
 6.Sparse is better than dense.
 7.Readability counts.
 8.
+=======
+5.Flat is better than nested.
+6.Sparse is better than dense.
+7.Readability counts.
+8.Special cases aren't special enough to break the rules.
+>>>>>>> d7d31be8a43aba4ad82a1401ea3720a86b87e6e3
 9.Although practicality beats purity.
