@@ -4,11 +4,12 @@ Zen of Python!!!
 2.Explicit is better than implicit.
 3.Simple is better than complex. (Has been edited from the Command-line)
 4.Complex is better than complicated
-5.Hello world
+5.Flat is better than nested.
 6.Sparse is better than dense.
 7.Readability counts.
 8.Special cases aren't special enough to break the rules.
 9.Although practicality beats purity.
 10.Errors should never pass silently.
 11.Unless explicitly silenced.
+16.Although never is often better than *right* now.
 17.If the implementation is hard to explain, it's a bad idea.
